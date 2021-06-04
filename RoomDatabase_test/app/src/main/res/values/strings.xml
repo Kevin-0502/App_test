@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomDatabase_test</string>
+    <string name="introduce_tu_puntaje">Introduce tu puntaje obtenido</string>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="puntaje_borrado">Su nota ha sido borrada</string>
+    <string name="puntaje_no_existe">No se encuantra el puntaje del jugador</string>
+    <string name="puntaje_creado">"El puntaje se ha añadido "</string>
+    <string name="puntaje_actualizada">Puntaje actualizado</string>
+    <string name="crea_puntaje_primero">El puntaje no se puede actualizar por que no existe</string>
+</resources>
